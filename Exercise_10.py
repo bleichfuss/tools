@@ -1,6 +1,6 @@
 # Exercise 10
 # author: Dominik Wirsig (XXXXXXX)
-# Linear Congruential Generator
+# Linear Congruential Generator to create random numbers
 
 def cg(seed):
 	while True:
